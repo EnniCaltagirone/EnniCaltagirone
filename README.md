@@ -1,7 +1,7 @@
 Hi there 👋
 🌱 I am currently learning to program and more generally the information technology related to the creation of software and security
 
------------------------BEGIN PGP PUBLIC KEY BLOCK------------------------
+-------------------------BEGIN PGP PUBLIC KEY BLOCK--------------------------
 
 mDMEYhdxvBYJKwYBBAHaRw8BAQdA65lgGJ2gT3s8qqLbKLt63lkS64Y6JFjarJqP
 LYdpale0GkVubmkgPGVubml4ZW5uaUBnbWFpbC5jb20+iJoEExYKAEIWIQQ/2tbT
@@ -14,4 +14,4 @@ CQPCWnQACgkQkDKv57TKovJDjgEA1TS0pyItRVhhKEwCAtbhKp2dE8M/2Jbz7tJ7
 aX3oa78BALhHUDgNF34v1HyfLwBBr+Q4Afy+Ay+3/NeEmySU2oIN
 =a8vr
 
-------------------------END PGP PUBLIC KEY BLOCK------------------------
+--------------------------END PGP PUBLIC KEY BLOCK--------------------------
